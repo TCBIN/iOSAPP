@@ -1,0 +1,3 @@
+target 'Test' do
+pod 'CocoaAsyncSocket'
+end
